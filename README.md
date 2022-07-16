@@ -3,6 +3,7 @@
 It helped me in understanding various UI/UX principles that these startups use in their websites.
 
 ## Getting started with Create React App. ##
+This project was bootstrapped with Create React App.
 In the project directory, you can run:
 
 npm start
